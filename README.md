@@ -1,13 +1,13 @@
-# World-Population-Map-D3
+# World Population Visualization Project
+
+This project visualizes world population data on a map using D3.js, TopoJSON, and GeoJSON.
 
 ## Installation
 
-Before you start, ensure you have Node.js installed on your machine. You will also need d3, topojson, and queue libraries.
+Before you start, ensure you have Node.js installed on your machine. You will also need `d3`, `topojson`, and `d3-queue` libraries.
 
-bash
-Copy code
+```bash
 npm install d3 topojson d3-queue
-Steps to Create the Project
 
 Step 1: Download GeoJSON Data from Natural Earth
 Visit Natural Earth Data.

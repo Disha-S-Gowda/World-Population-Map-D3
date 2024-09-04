@@ -1,6 +1,6 @@
 # World-Population-Map-D3
 
-##Installation
+## Installation
 
 Before you start, ensure you have Node.js installed on your machine. You will also need d3, topojson, and queue libraries.
 

@@ -57,11 +57,11 @@ This project creates an interactive world map using D3.js, displaying population
 
 1. In the map.js file, implement the following:
    
-    a. Set up the SVG container and configure zoom behavior.
-    b. Load and process the TopoJSON and population data.
-    c. Implement a color scale for population data.
-    d. Draw the map with country boundaries and color coding based on population.
-    e. Add interactivity, such as tooltips or hover effects to display population details.
+    - Set up the SVG container and configure zoom behavior.
+    - Load and process the TopoJSON and population data.
+    - Implement a color scale for population data.
+    - Draw the map with country boundaries and color coding based on population.
+    - Add interactivity, such as tooltips or hover effects to display population details.
     
 2. Open `index.html` in a browser to view your interactive world map.
 

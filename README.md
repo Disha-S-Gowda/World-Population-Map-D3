@@ -65,4 +65,7 @@ This project creates an interactive world map using D3.js, displaying population
     
 2. Open `index.html` in a browser to view your interactive world map.
 
+3. ![image](https://github.com/user-attachments/assets/7672bddb-2d9a-4fe8-9325-218f57380020)
+
+
 
